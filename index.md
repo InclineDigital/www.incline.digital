@@ -2,8 +2,6 @@
 
 Sometimes that involves computers.
 
-<style>.page-header .btn,.site-footer span {display: none}</style>
-
 ## About Incline
 
 Incline is a business consulting and software engineering firm established in 2005.

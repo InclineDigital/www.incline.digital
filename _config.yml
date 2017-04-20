@@ -1,5 +1,9 @@
-theme: jekyll-theme-cayman
 name: Incline
 title: "Incline: web and app development, process automation and optimization"
 description: Software engineering and business consulting - we help businesses launch, grow, and profit.
 google)analytics: UA-97706767-1
+sass:
+  # loading path from site root
+  # default to _sass
+  sass_dir: bower_components/bootstrap/scss
+  style: compressed

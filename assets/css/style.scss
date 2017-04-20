@@ -1,7 +1,63 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+// http://www.colourlovers.com/palette/4481182/Mountain_sunset
+$peachfuzz: #FFEAD7;
+$blush: #ED8C85;
+$craftBrewedCement: #667BB2;
+$rsvp: #544B78;
+$darkNight: #11112D;
+
+$brand-primary: $rsvp;
+$brand-success: $craftBrewedCement;
+$brand-info: $craftBrewedCement;
+$brand-warning: $blush;
+$brand-danger: $blush;
+$brand-inverse: $darkNight;
+
+// weights and colors
+//$body-bg: $peachfuzz;
+$body-color: $darkNight;
+$inverse-bg: $darkNight;
+$inverse-color: $peachfuzz;
+
+// jumbotron
+$jumbotron-padding: 3rem;
+$jumbotron-bg: $blush;
+$display3-weight: 600;
+$headings-color: $rsvp;
+
+@import "bootstrap";
 
 
-.site-footer-owner { font-weight: normal; }
+header {
+  @extend .jumbotron;
+  @extend .jumbotron-fluid;
+  h1 { @extend .display-3; }
+  h1, h2 { color: white; }
+  text-align: center;
+  background-image: radial-gradient(circle at bottom center, $craftBrewedCement, $blush);
+  background-image: url('/assets/images/header-bg.jpg');
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-shadow: 0 0 4px $craftBrewedCement; //rgba($peachfuzz, 0.5); // todo: make this work with the background color variables
+}
+
+main { @extend .container; }
+
+
+footer {
+  padding: 3rem 0;
+  margin-top: 3em;
+  background-image: url('/assets/images/header-bg.jpg');
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  span {
+    background: rgba($peachfuzz,0.8);
+    padding: 0.2em 0.5em;
+    box-decoration-break: clone;
+  }
+}

@@ -1,8 +1,6 @@
-## Incline helps businesses profit.
+## About Incline
 
-Sometimes that involves computers.
-
-## Services
+Incline is a business consulting and software engineering firm established in 2005.
 
 Our services center around development, automation, and optimization.
 
@@ -25,6 +23,8 @@ Our team of experts and industry veterans knows the ins and outs of making proje
 * Wine.com
 * Claires
 * ...and the list goes on
+
+While we're not tied to any one technology, we have made several contributions to Node.js - so if you run anythin on Node, you're already running some our code. You're welcome  ;)
 
 ## Interested?
 

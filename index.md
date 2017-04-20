@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Incline helps businesses profit.
 
-You can use the [editor on GitHub](https://github.com/inclinesystems/incline.systems/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sometimes that involves computers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Services
 
-### Markdown
+Our services center around development, automation, and optimization.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Business Optimization
 
-```markdown
-Syntax highlighted code block
+We dign into your business and identify key areas where you can increase sales, reduce churn, improve performance, and grow your profit margins. Then we make it happen.
 
-# Header 1
-## Header 2
-### Header 3
+### Web and App Development
 
-- Bulleted
-- List
+Our team builds beautiful, compelling experiences across web, mobile, and desktop. We can create new apps from scratch or take over maintence of existing ones.
 
-1. Numbered
-2. List
+## Interested?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inclinesystems/incline.systems/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Get in touch! hello@incline.systems

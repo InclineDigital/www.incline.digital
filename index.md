@@ -4,12 +4,7 @@ title: "Incline: web and app development, process automation and optimization"
 headline: Incline helps businesses grow
 subheadline: Sometimes that involves computers.
 ---
-
-# Incline helps business thrive
-
-Sometimes that involves computers.
-
-## About Incline
+# About Incline
 
 Incline is a business consulting and software engineering firm established in 2005.
 
@@ -21,7 +16,13 @@ We dig into your business and identify key areas where you can increase sales, r
 
 ### Web and App Development
 
-Our team builds beautiful, compelling experiences across web, mobile, and desktop. We can create new apps from scratch or take over maintence of existing ones.
+Our team builds beautiful, compelling experiences across web, mobile, and desktop. We can create new apps from scratch or take over maintenance of existing ones.
+
+### Technologies
+
+We can work with whatever you throw at us, but some of our favorites are Node.js, React, Ruby on Rails, Arduino, Python, Rust, and Swift. 
+
+Incline is very supportive of Open Source - for example, if you run anything on Node.js, you're already running some our code. You're welcome  ;)
 
 ## Why Incline?
 
@@ -40,12 +41,6 @@ We have experience working with a wide range of clients, including:
 Work with Incline, and you'll be in good company. 
 
 
-### Technologies
-
-We can work with whatever you throw at us, but some of our favorites are Node.js, React, Ruby on Rails, Python, Rust, and Swift. 
-
-Incline is very supportive of Open Source - for example, if you run anything on Node.js, you're already running some our code. You're welcome  ;)
-
 ## Interested in learning more?
 
-Get in touch! hello@incline.systems
+Get in touch! [hello@incline.systems](mailto:hello@incline.systems)

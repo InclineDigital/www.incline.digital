@@ -1,5 +1,6 @@
 ---
-title: "&#9698; Incline: web and app development, process automation and optimization"
+# ◢ is &#9698;
+title: "◢ Incline: web and app development, process automation and optimization"
 # default description from _config.yml
 headline: Incline helps businesses grow
 subheadline: Sometimes that involves computers.

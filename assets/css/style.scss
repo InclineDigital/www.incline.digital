@@ -25,6 +25,7 @@ $inverse-color: $peachfuzz;
 $jumbotron-padding: 3rem;
 $jumbotron-bg: $blush;
 $display3-weight: 600;
+$display4-weight: 600;
 $headings-color: $rsvp;
 
 @import "bootstrap";
@@ -33,7 +34,10 @@ $headings-color: $rsvp;
 header {
   @extend .jumbotron;
   @extend .jumbotron-fluid;
-  h1 { @extend .display-3; }
+  h1 { @extend .display-4; }
+  @media (min-width map-get($grid-breakpoints, sm)) {
+    h1 { font-size: $display3-size; }
+  }
   h1, h2 { color: white; }
   text-align: center;
   background-image: radial-gradient(circle at bottom center, $craftBrewedCement, $blush);
@@ -57,7 +61,7 @@ footer {
   text-align: center;
   span {
     background: rgba($peachfuzz,0.8);
-    padding: 0.2em 0.5em;
+    padding: 0.15em 0.5em;
     box-decoration-break: clone;
   }
 }

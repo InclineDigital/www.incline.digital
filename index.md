@@ -1,3 +1,7 @@
+# Incline helps business thrive
+
+Sometimes that involves computers.
+
 ## About Incline
 
 Incline is a business consulting and software engineering firm established in 2005.

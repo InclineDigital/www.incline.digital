@@ -15,6 +15,14 @@ $brand-warning: $blush;
 $brand-danger: $blush;
 $brand-inverse: $darkNight;
 
+//$grid-breakpoints: (
+//        xs: 0,
+//        sm: 576px,
+//        md: 768px,
+//        lg: 992px,
+//        xl: 1200px
+//);
+
 // weights and colors
 //$body-bg: $peachfuzz;
 $body-color: $darkNight;
@@ -37,7 +45,7 @@ header {
   @extend .jumbotron;
   @extend .jumbotron-fluid;
   h1 { @extend .display-4; }
-  @media (min-width map-get($grid-breakpoints, sm)) {
+  @media (min-width: map-get($grid-breakpoints, sm)) {
     h1 { font-size: $display3-size; }
   }
   h1, h2 { color: white; }
@@ -51,6 +59,19 @@ header {
 }
 
 main { @extend .container; }
+
+@media (min-width: map-get($grid-breakpoints, md)) {
+  .narrow main {
+    width: 720px;
+  }
+}
+
+
+h2, h3 { margin-top: 50px; }
+
+.services {
+  margin-bottom: 30px;
+}
 
 .logos {
   @extend .list-inline;

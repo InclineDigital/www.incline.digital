@@ -9,7 +9,7 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
-<body>
+<body{%if page.class %} class="{{ page.class }}"{% endif %}>
 <header>
     <div class="container">
         <h1>{{ page.headline | default: site.title }}</h1>

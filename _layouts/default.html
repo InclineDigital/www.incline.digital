@@ -13,7 +13,9 @@
 <header>
     <div class="container">
         <h1>{{ page.headline | default: site.title }}</h1>
-        <h2>{{ page.subheadline | default: site.description }}</h2>
+        {% if page.subheadline %}
+        <h2>{{ page.subheadline }}</h2>
+        {% endif %}
     </div>
 </header>
 
@@ -23,7 +25,11 @@
 
 <footer>
     <div class="container">
-        <span>Incline is based in Pleasant Hill, Ohio | <a href="https://github.com/Incline.Systems">GitHub</a> | <a href="https://twitter.com/i/notifications">Twitter</a></span>
+        <span>Incline is based in Pleasant Hill, Ohio
+            | <a href="https://github.com/Incline.Systems">GitHub</a>
+            | <a href="https://twitter.com/i/notifications">Twitter</a>
+            | <a href="mailto:hello@incline.systems">hello@incline.systems</a>
+        </span>
     </div>
 </footer>
 

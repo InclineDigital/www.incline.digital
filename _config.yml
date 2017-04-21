@@ -7,3 +7,4 @@ sass:
   # default to _sass
   sass_dir: bower_components/bootstrap/scss
   style: compressed
+exclude: ['assets/source-images']

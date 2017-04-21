@@ -28,6 +28,8 @@ $display3-weight: 600;
 $display4-weight: 600;
 $headings-color: $rsvp;
 
+$link-decoration: underline;
+
 @import "bootstrap";
 
 
@@ -49,6 +51,19 @@ header {
 }
 
 main { @extend .container; }
+
+.logos {
+  @extend .list-inline;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  li { @extend .list-inline-item; }
+  img {
+    @extend .img-fluid;
+    margin: 6px 3px;
+  }
+}
 
 
 footer {

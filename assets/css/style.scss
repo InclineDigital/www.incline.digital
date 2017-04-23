@@ -60,14 +60,11 @@ header {
 
 main { @extend .container; }
 
-@media (min-width: map-get($grid-breakpoints, md)) {
-  .narrow main {
-    width: 720px;
-  }
-}
+h1, h2, h3, h4, h5, h6 { a { text-decoration: none; } }
 
+h2, h3 { margin-top: 30px; }
 
-h2, h3 { margin-top: 50px; }
+.js-icons img { padding-right: 8px; max-width: 25%; }
 
 .services {
   margin-bottom: 30px;

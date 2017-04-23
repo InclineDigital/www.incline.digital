@@ -1,6 +1,7 @@
 ---
 title: ◢ Incline Customers
 headline: Happy Clients
+permalink: customers/
 ---
 
 <ul class="logos">
@@ -10,3 +11,6 @@ headline: Happy Clients
   {% endif %}
 {% endfor %}
 </ul>
+
+
+[Work with Incline](/) and add your logo to the list!

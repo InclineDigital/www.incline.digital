@@ -3,7 +3,7 @@
 title: "◢ Incline: web and app development, process automation and optimization"
 # default description from _config.yml
 headline: Incline to bring profits.
-subheadline: Web Apps // Automation // Optimization
+subheadline: Web Apps, Automation, Optimization
 featured_customers:
 - atari.png
 - discovery_channel.jpg
@@ -21,10 +21,10 @@ featured_customers:
 
 Incline is a digital consultancy established in 2005.
 
-Our primary expertise is in [JavaScript & Node.js](javascript/) for desktop and mobile.
-We also do A/B testing and various types of automation.
+Our primary expertise is in [JavaScript & Node.js](javascript/) for desktop and mobile web apps.
+We also do A/B testing and various types of automation and optimization.
 
-Our primary focus is on customer success.
+Our primary focus is on helping out customers succeed.
 
 </div>
 <div class="col-sm js-icons" markdown="1">
@@ -36,9 +36,9 @@ Our primary focus is on customer success.
 </div>
 </div>
 
-> Incline doubled our profits in the first year. They were up 5x in the second year.
+> Incline doubled our profits in the first year. They were up 5x after the second year.
 >
-> -- <cite>Nathan F, WMU</cite>
+> <cite>-- Nathan F, WMU</cite>
 
 <div class="row services">
 <div class="col-sm" markdown="1">

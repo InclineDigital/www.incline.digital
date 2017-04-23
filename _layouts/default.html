@@ -10,12 +10,38 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 <body{%if page.class %} class="{{ page.class }}"{% endif %}>
+
+
+
 <header>
-    <div class="container">
-        <h1>{{ page.headline | default: site.title }}</h1>
-        {% if page.subheadline %}
-        <h2>{{ page.subheadline }}</h2>
-        {% endif %}
+    <nav class="navbar navbar-toggleable-md">
+        <div class="container">
+
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#incline-navbar-collapsible" aria-controls="incline-navbar-collapsible" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <a class="navbar-brand" href="/">◢ Incline</a>
+
+            <div class="collapse navbar-collapse" id="incline-navbar-collapsible">
+                <ul class="navbar-nav mr-0 ml-auto mt-2 mt-md-0">
+                    {% for item in site.nav %}
+                    <li class="nav-item{% if page.url == item.url %} active{% endif %}">
+                        <a class="nav-link" href="{{item.url}}">{{item.name}}{% if page.url == item.url %} <span class="sr-only">(current)</span>{% endif %}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1>{{ page.headline | default: site.title }}</h1>
+            {% if page.subheadline %}
+            <h2>{{ page.subheadline }}</h2>
+            {% endif %}
+        </div>
     </div>
 </header>
 

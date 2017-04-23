@@ -1,10 +1,10 @@
 ---
 # ◢ is &#9698;
-title: "◢ Incline: web and app development, process automation and optimization"
+title: "◢ Incline: Web and App Development, Process Automation and Optimization"
 # default description from _config.yml
 headline: Incline to bring profits.
 subheadline: Web Apps, Automation, Optimization
-featured_customers:
+featured_clients:
 - atari.png
 - discovery_channel.jpg
 - IBM_Watson.png
@@ -27,7 +27,7 @@ We also do A/B testing and various types of automation and optimization.
 Our primary focus is on helping out customers succeed.
 
 </div>
-<div class="col-sm js-icons" markdown="1">
+<div class="col-sm js-icons-home" markdown="1">
 
 # [JavaScript & Node.js Experts](javascript/)
 
@@ -67,10 +67,10 @@ Our team builds beautiful, compelling experiences across web, mobile, and deskto
 </div>
 
 
-Work with Incline, and you'll be in  [good company](customers/):
+Work with Incline, and you'll be in  [good company](clients/):
 
 <ul class="logos">
-{% for logo in page.featured_customers %}
+{% for logo in page.featured_clients %}
    <li><img src="assets/images/logos/{{ logo }}" alt="{{ logo | replace: "_", " " |  capitalize }}" /></li>
 {% endfor %}
 </ul>

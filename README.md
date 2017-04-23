@@ -13,5 +13,3 @@ This site is hosted on [GitHub Pages](https://pages.github.com/).
 ## todo:
 * more quotes
 * improve footer
-* top nav
-* organize & balance js page, add some images

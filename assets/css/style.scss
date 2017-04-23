@@ -44,20 +44,35 @@ $font-size-lg: 1.5rem;
 
 
 header {
-  @extend .jumbotron;
-  @extend .jumbotron-fluid;
-  h1 { @extend .display-4; }
-  @media (min-width: map-get($grid-breakpoints, sm)) {
-    h1 { font-size: $display3-size; }
-  }
-  h1, h2 { color: white; }
-  text-align: center;
+  color: white;
+  text-shadow: 0 0 4px $craftBrewedCement; //rgba($peachfuzz, 0.5); // todo: make this work with the background color variables
+  h1, h2 { color: inherit; }
+  a { text-decoration: none; color: inherit; }
   background-image: radial-gradient(circle at bottom center, $craftBrewedCement, $blush);
   background-image: url('/assets/images/header-bg.jpg');
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
-  text-shadow: 0 0 4px $craftBrewedCement; //rgba($peachfuzz, 0.5); // todo: make this work with the background color variables
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus,
+.nav-link:hover,
+.nav-link:focus,
+.nav-item.active a
+{
+  // todo: come up with something better here, consider differentiating between active and hover/focus
+  text-decoration: underline;
+  color: inherit;
+}
+
+.jumbotron {
+  h1 { @extend .display-4; }
+  @media (min-width: map-get($grid-breakpoints, sm)) {
+    h1 { font-size: $display3-size; }
+  }
+  text-align: center;
+  background-color: transparent;
 }
 
 main { @extend .container; }
@@ -66,7 +81,7 @@ h1, h2, h3, h4, h5, h6 { a { text-decoration: none; } }
 
 h2, h3 { margin-top: 30px; }
 
-.js-icons img { padding-right: 8px; max-width: 25%; }
+.js-icons-home img { padding-right: 8px; max-width: 25%; }
 
 .services {
   margin-bottom: 30px;
@@ -94,6 +109,18 @@ blockquote {
   }
 }
 
+// javascript page
+.javascript {
+  img {
+    float: right;
+    width: 150px;
+    max-width: 25%;
+    margin: 0 0 15px 15px;
+  }
+  h1, h2, h3 { clear: both; }
+
+}
+
 
 footer {
   padding: 3rem 0;
@@ -109,3 +136,4 @@ footer {
     box-decoration-break: clone;
   }
 }
+

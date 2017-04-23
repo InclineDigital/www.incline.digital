@@ -1,7 +1,8 @@
 ---
-title: ◢ Incline Customers
-headline: Happy Clients
-permalink: customers/
+title: ◢ Incline Clients
+headline: Happy Customers
+description: Incline has had the opportunity to work with some amazing clients, large and small. Incline offers digital consulting services focused around web apps, automation, and optimization.
+permalink: clients/
 ---
 
 <ul class="logos">

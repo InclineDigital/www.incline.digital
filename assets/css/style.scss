@@ -38,6 +38,8 @@ $headings-color: $rsvp;
 
 $link-decoration: underline;
 
+$font-size-lg: 1.5rem;
+
 @import "bootstrap";
 
 
@@ -68,6 +70,15 @@ h2, h3 { margin-top: 30px; }
 
 .services {
   margin-bottom: 30px;
+}
+
+blockquote {
+  @extend .blockquote;
+  font-size: $font-size-lg;
+  cite {
+    font-size: $font-size-sm; //$font-size-base;
+    color: lighten($body-color, 20%);
+  }
 }
 
 .logos {

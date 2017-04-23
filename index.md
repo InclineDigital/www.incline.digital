@@ -35,6 +35,11 @@ Our primary focus is on customer success.
 
 </div>
 </div>
+
+> Incline doubled our profits in the first year. They were up 5x in the second year.
+>
+> -- <cite>Nathan F, WMU</cite>
+
 <div class="row services">
 <div class="col-sm" markdown="1">
 
@@ -45,7 +50,7 @@ We help increase sales, reduce churn, improve performance, and grow your profit 
 * A/B test sales funnel changes, new features, etc.
 * Automatic setup of new customers
 * Interview current, past, and potential customers
-* Reduce hosting (e,g. AWS) and other costs
+* Reduce operating costs (AWS, AdWords, etc.)
 
 </div>
 <div class="col-sm" markdown="1">

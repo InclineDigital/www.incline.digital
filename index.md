@@ -3,7 +3,7 @@
 title: "◢ Incline: web and app development, process automation and optimization"
 # default description from _config.yml
 headline: Incline to bring profits.
-subheadline: Web and app development, process automation and optimization
+subheadline: Web Apps // Automation // Optimization
 featured_customers:
 - atari.png
 - discovery_channel.jpg

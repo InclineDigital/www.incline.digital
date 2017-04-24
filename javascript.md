@@ -11,7 +11,7 @@ class: javascript
 
 ![JavaScript](/assets/images/javascript.svg)
 
-We've been building JavaScript-driven web apps since we started in 2005.
+We've been building JavaScript-driven web apps almost since the start.
 The JavaScript world was a little bit different back then - *jQuery didn't even exist yet* -
 but we've kept up with the changes continue to use the advancing state-of-the-art to bring increased value to our customers.
 

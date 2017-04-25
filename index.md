@@ -38,7 +38,7 @@ Our primary focus is on helping out customers succeed.
 
 > Incline doubled our profits in the first year. They were up 5x after the second year.
 >
-> <cite>-- Nathan F, WMU</cite>
+> <cite>-- Nate F, WMU</cite>
 
 <div class="row services">
 <div class="col-sm" markdown="1">

@@ -11,8 +11,10 @@ class: javascript
 
 ![JavaScript](/assets/images/javascript.svg)
 
-We've been building JavaScript-driven web apps almost since the start.
-The JavaScript world was a little bit different back then - *jQuery didn't even exist yet!*
+Incline has been **repeatedly ranked in the top 1% of JavaScript engineers world wide<sup>1</sup>.**
+
+It's no sunrise - we've been building JavaScript-driven web apps almost since the start - *before jQuery even existed.*
+
 But, we've kept up with the changes and continue to use the advancing state-of-the-art to bring increased value to our customers.
 
 # [Incline](/) knows Node
@@ -34,6 +36,9 @@ WebSockets provide realtime updates, and we're currently investigating WASM for 
 That said, we're happy to work with whatever you have in place already, and rarely feel the need for massive re-writes or migrations.
 
 
-## Interested?
+## Need JavaScript Help?
 
-See if we can help with your JavaScript needs: [hello@incline.systems](mailto:hello@incline.systems)
+Get in touch and see if we can help with your JavaScript needs: [javascript@incline.systems](mailto:javascript@incline.systems?subject=We%20need%20some%20JavaScript%20help&body=Hello%20Incline%2C%0A%0AMy%20company%20is%20%5Bname%20and%20description%20of%20your%20company%5D.%0A%0AWe%20need%20some%20help%20with%20%5Bissues%20your%20company%20is%20facing%5D.%0A%0AThanks!%0A)
+
+
+<small><sup>1</sup> Rankings by Elance.com, recorded in 2013, 2014, and 2015.</small>

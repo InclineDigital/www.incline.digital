@@ -38,7 +38,7 @@ Our primary focus is on helping out customers succeed.
 
 > Incline doubled our profits in the first year. They were up 5x after the second year.
 >
-> <cite>-- Nate F, WMU</cite>
+> <cite>-- Nate F, <a href="http://whatsmyua.com/">WhatsMyUA.com</a></cite>
 
 <div class="row services">
 <div class="col-sm" markdown="1">
@@ -59,7 +59,7 @@ We help increase sales, reduce churn, improve performance, and grow your profit 
 Our team builds beautiful, compelling experiences across web, mobile, and desktop:
 
 * Mobile-first [web apps](javascript/) built with React, Angular, etc.
-* Intuitive REST and WebSocket APIs
+* REST and WebSocket APIs that can scale to billions of actions
 * Fast, beautiful mobile-first websites
 * Performance enhancements to speed up existing sites
 

@@ -93,6 +93,14 @@ blockquote {
   cite {
     font-size: $font-size-sm; //$font-size-base;
     color: lighten($body-color, 20%);
+    a {
+      color: inherit;
+      text-decoration: none;
+      &:hover, &:active {
+        color: lighten($brand-primary, 20%);
+        text-decoration: underline;
+      }
+    }
   }
 }
 

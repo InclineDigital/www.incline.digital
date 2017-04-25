@@ -19,7 +19,7 @@ featured_clients:
 
 # [◢ Incline](/)
 
-Incline is a digital consultancy established in 2003.
+Incline is a digital consultancy established in 2004.
 
 Our primary expertise is in [JavaScript & Node.js](javascript/) for desktop and mobile web apps.
 We also do A/B testing and various types of automation and optimization.

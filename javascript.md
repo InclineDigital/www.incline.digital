@@ -2,7 +2,7 @@
 title: "◢ Incline: JavaScript & Node.js Experts"
 description: Full-stack JavaScript Experts. Contributors to Node.js and hundreds of other JS projects. Experienced with React, Angular, D3, Express, jQuery, and many more.
 headline: JavaScript & Node.js Experts
-subheadline: ES6, Webpack, React/Redux, Express, Angular, and many more
+subheadline: ES6+, Webpack, React/Redux, Express, Angular, and many more
 permalink: javascript/
 class: javascript
 ---

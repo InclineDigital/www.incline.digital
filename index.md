@@ -21,10 +21,10 @@ featured_clients:
 
 Incline is a digital consultancy established in 2004.
 
-Our primary expertise is in [JavaScript & Node.js](javascript/) for desktop and mobile web apps.
+Our [primary expertise is in JavaScript & Node.js](javascript/) for desktop and mobile web apps.
 We also do A/B testing and various types of automation and optimization.
 
-Our primary focus is on helping out customers succeed.
+Our primary focus is on helping our customers succeed.
 
 </div>
 <div class="col-sm js-icons-home" markdown="1">
@@ -66,15 +66,7 @@ Our team builds beautiful, compelling experiences across web, mobile, and deskto
 </div>
 </div>
 
-
-Work with Incline, and you'll be in  [good company](clients/):
-
-<ul class="logos">
-{% for logo in page.featured_clients %}
-   <li><img src="assets/images/logos/{{ logo }}" alt="{{ logo | replace: "_", " " |  capitalize }}" /></li>
-{% endfor %}
-</ul>
-
+{% include featured-work.html %}
 
 ## ✉️ Interested in learning more?
 

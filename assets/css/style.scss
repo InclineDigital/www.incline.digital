@@ -87,6 +87,30 @@ h2, h3 { margin-top: 30px; }
   margin-bottom: 30px;
 }
 
+.work {
+  img {
+    @extend .card-img-top;
+    @extend .img-fluid;
+    //height: auto;
+  }
+  h3 {
+    @extend .card-title;
+  }
+  .card {
+    margin-bottom: 30px;
+    background-color: lighten($craftBrewedCement, 42%);
+  }
+}
+@media(min-width: map-get($grid-breakpoints, sm)) {
+  .work-cards {
+    @extend .card-group;
+    flex-flow: row nowrap;
+    .card {
+      flex-shrink: 1;
+    }
+  }
+}
+
 blockquote {
   @extend .blockquote;
   font-size: $font-size-lg;

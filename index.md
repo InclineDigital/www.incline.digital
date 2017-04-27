@@ -4,13 +4,6 @@ title: "◢ Incline: Web and App Development, Process Automation and Optimizatio
 # default description from _config.yml
 headline: Incline to bring profits.
 subheadline: Web Apps, Automation, Optimization
-featured_clients:
-- atari.png
-- discovery_channel.jpg
-- IBM_Watson.png
-- ticketmaster.svg
-- kohls.png
-- loreal_paris.jpg
 ---
 
 
@@ -67,6 +60,23 @@ Our team builds beautiful, compelling experiences across web, mobile, and deskto
 </div>
 
 {% include featured-work.html %}
+
+
+<section class="capabilities" markdown="1">
+
+## Capabilities
+
+Beyond our [core depth of expertise in web apps](/javascript/), Incline has a wide breadth of experience and capabilities:
+
+* **Mobile Apps** - Android & iPhone
+* **Web Design and Development** - Websites, Blogs, etc.
+* **AI** - Artificial Intelligence, Machine Learning, Deep Learning
+* **e-Commerce** - Physical and digital goods, subscriptions, SASS
+* **UI/UX** - User Interface and User Experience
+* **IoT** - Internet of Things/Embedded Hardware Prototyping with Particle, Arduino, Raspberry Pi, etc.
+* **DevOps** - Continuous Integration (CI), Continuous Delivery (CD), automated testing
+
+</section>
 
 ## ✉️ Interested in learning more?
 

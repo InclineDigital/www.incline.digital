@@ -64,7 +64,7 @@ Our team builds beautiful, compelling experiences across web, mobile, and deskto
 
 <section class="capabilities" markdown="1">
 
-## Capabilities
+## ⚛ Capabilities
 
 Beyond our [core depth of expertise in web apps](/javascript/), Incline has a wide breadth of experience and capabilities:
 

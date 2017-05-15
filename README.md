@@ -11,5 +11,4 @@ This site is hosted on [GitHub Pages](https://pages.github.com/).
 [Instructions for running locally](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
 ## todo:
-* more quotes
-* improve footer
+* improve overall design and balance

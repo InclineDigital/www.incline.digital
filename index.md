@@ -12,12 +12,12 @@ subheadline: Web Apps, Automation, Optimization
 
 # [◢ Incline](/)
 
-Incline is a digital consultancy established in 2004.
+Incline is a small, exclusive digital agency established in 2004.
 
-Our [primary expertise is in JavaScript & Node.js](javascript/) for desktop and mobile web apps.
-We also do A/B testing and various types of automation and optimization.
+We partner with clients to keep a laser-focus on their goals, growth, and profits.
 
-Our primary focus is on helping our customers succeed.
+Our [core expertise is in JavaScript & Node.js](javascript/) for desktop and mobile web apps,
+and we offer [a variety of business and technology services](#capabilities).
 
 </div>
 <div class="col-sm js-icons-home" markdown="1">
@@ -29,11 +29,29 @@ Our primary focus is on helping our customers succeed.
 </div>
 </div>
 
-> Incline doubled our profits in the first year. They were up 5x after the second year.
->
-> <cite>-- Nate F, <a href="http://whatsmyua.com/">WhatsMyUA.com</a></cite>
 
-<div class="row services">
+{% include featured-work.html %}
+
+
+
+
+<section id="capabilities" class="capabilities" markdown="1">
+
+## ⚛ Capabilities
+
+Beyond our [core depth of expertise in web apps](/javascript/), Incline has a wide breadth of experience and capabilities:
+
+* **Mobile Apps** - Android & iPhone
+* **Web Design and Development** - Websites, Blogs, etc.
+* **AI** - Artificial Intelligence, Machine Learning, Deep Learning
+* **e-Commerce** - Physical and digital goods, subscriptions, SASS
+* **UI/UX** - User Interface and User Experience
+* **IoT** - Internet of Things/Embedded Hardware Prototyping with Particle, Arduino, Raspberry Pi, etc.
+* **DevOps** - Continuous Integration (CI), Continuous Delivery (CD), automated testing
+
+</section>
+
+<section id="services" class="row services">
 <div class="col-sm" markdown="1">
 
 ### 📈 Business Optimization
@@ -49,7 +67,7 @@ We help increase sales, reduce churn, improve performance, and grow your profit 
 <div class="col-sm" markdown="1">
 
 ### 📱 Websites and Apps
-Our team builds beautiful, compelling experiences across web, mobile, and desktop:
+Incline builds beautiful, compelling experiences across web, mobile, and desktop:
 
 * Mobile-first [web apps](javascript/) built with React, Angular, etc.
 * REST and WebSocket APIs that can scale to billions of actions
@@ -57,25 +75,38 @@ Our team builds beautiful, compelling experiences across web, mobile, and deskto
 * Performance enhancements to speed up existing sites
 
 </div>
+</section>
+
+
+<section markdown="1">
+## 💬 Don't just take our word for it
+
+<div class="quotes" markdown="1">
+> Incline's work dramatically expanded my customer base and accounted for 24% of revenue over the last 18 months.
+>
+> <cite>-- Nathan James, <a href="http://www.truetileohio.com/">True Tile</a></cite>
+
+<div markdown="1"> 
+<blockquote markdown="1">
+<p class="big">Profits are up 5x and still growing!</p>
+
+<cite>-- <a href="http://user-agent.io/">What's My User Agent?</a></cite>
+</blockquote>
+
+> Expert in the arts of JavaScript programing.
+> 
+> <cite>-- Kurtis Mullins</cite>
 </div>
 
-{% include featured-work.html %}
+> I was impressed with the depth of knowledge. When you need an experienced, dedicated and passionate professional, look no further.
+> 
+> <cite>-- Adam Root, Agency Entourage</cite>
 
+> It was a pleasure! [Incline] delivered a well priced option with very quick turnaround time. 
+> 
+> <cite>Justin Long, BMW Invoice</cite>
 
-<section class="capabilities" markdown="1">
-
-## ⚛ Capabilities
-
-Beyond our [core depth of expertise in web apps](/javascript/), Incline has a wide breadth of experience and capabilities:
-
-* **Mobile Apps** - Android & iPhone
-* **Web Design and Development** - Websites, Blogs, etc.
-* **AI** - Artificial Intelligence, Machine Learning, Deep Learning
-* **e-Commerce** - Physical and digital goods, subscriptions, SASS
-* **UI/UX** - User Interface and User Experience
-* **IoT** - Internet of Things/Embedded Hardware Prototyping with Particle, Arduino, Raspberry Pi, etc.
-* **DevOps** - Continuous Integration (CI), Continuous Delivery (CD), automated testing
-
+</div>
 </section>
 
 ## ✉️ Interested in learning more?

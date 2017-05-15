@@ -87,22 +87,31 @@ ol, ul, dl {
 
 .js-icons-home img { padding-right: 8px; max-width: 25%; }
 
-blockquote {
-  @extend .blockquote;
-  font-size: $font-size-lg;
-  cite {
-    font-size: $font-size-sm; //$font-size-base;
-    color: lighten($body-color, 20%);
-    a {
-      color: inherit;
-      text-decoration: none;
-      &:hover, &:active {
-        color: lighten($brand-primary, 20%);
-        text-decoration: underline;
+.quotes {
+  @extend .row;
+  margin: 0;
+  .big{ font-size: $font-size-lg; }
+  & > div { padding: 0; }
+  & > div, blockquote { @extend .col-lg;}
+  blockquote {
+    @extend .blockquote;
+    cite {
+      font-size: $font-size-sm; //$font-size-base;
+      color: lighten($body-color, 20%);
+      a {
+        color: inherit;
+        text-decoration: none;
+        &:hover, &:active {
+          color: lighten($brand-primary, 20%);
+          text-decoration: underline;
+        }
       }
     }
+    p:last-child { margin-bottom: 0; }
   }
 }
+
+
 
 .services {
   margin-bottom: 30px;

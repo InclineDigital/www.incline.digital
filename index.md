@@ -2,7 +2,7 @@
 # ◢ is &#9698;
 title: "◢ Incline: Web and App Development, Process Automation and Optimization"
 # default description from _config.yml
-headline: Incline to bring profits.
+headline: Incline drives growth.
 subheadline: Web Apps, Automation, Optimization
 ---
 
@@ -12,9 +12,9 @@ subheadline: Web Apps, Automation, Optimization
 
 # [◢ Incline](/)
 
-Incline is a small, exclusive digital agency established in 2004.
+Incline is a small, capable digital agency established in 2004.
 
-We partner with clients to keep a laser-focus on their goals, growth, and profits.
+We partner with clients and keep a laser-focus on their goals, vision, and bottom line.
 
 Our [core expertise is in JavaScript & Node.js](javascript/) for desktop and mobile web apps,
 and we offer [a variety of business and technology services](#capabilities).
@@ -31,8 +31,6 @@ and we offer [a variety of business and technology services](#capabilities).
 
 
 {% include featured-work.html %}
-
-
 
 
 <section id="capabilities" class="capabilities" markdown="1">
@@ -82,29 +80,18 @@ Incline builds beautiful, compelling experiences across web, mobile, and desktop
 ## 💬 Don't just take our word for it
 
 <div class="quotes" markdown="1">
+
+> <p class="big">Incline doubled our profits in the first year. They were up 5x after the second year!</p>
+> 
+> <cite>-- <a href="http://user-agent.io/">What's My User Agent?</a></cite>
+
 > Incline's work dramatically expanded my customer base and accounted for 24% of revenue over the last 18 months.
 >
 > <cite>-- Nathan James, <a href="http://www.truetileohio.com/">True Tile</a></cite>
 
-<div markdown="1"> 
-<blockquote markdown="1">
-<p class="big">Profits are up 5x and still growing!</p>
-
-<cite>-- <a href="http://user-agent.io/">What's My User Agent?</a></cite>
-</blockquote>
-
-> Expert in the arts of JavaScript programing.
+> <p class="big">Expert in the arts of JavaScript programing.</p>
 > 
 > <cite>-- Kurtis Mullins</cite>
-</div>
-
-> I was impressed with the depth of knowledge. When you need an experienced, dedicated and passionate professional, look no further.
-> 
-> <cite>-- Adam Root, Agency Entourage</cite>
-
-> It was a pleasure! [Incline] delivered a well priced option with very quick turnaround time. 
-> 
-> <cite>Justin Long, BMW Invoice</cite>
 
 </div>
 </section>

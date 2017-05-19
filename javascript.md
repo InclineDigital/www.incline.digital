@@ -40,7 +40,7 @@ That said, we're happy to work with whatever you have in place already, and rare
 
 ## Need JavaScript Help?
 
-Get in touch and see if we can help with your JavaScript needs: [javascript@incline.systems](mailto:javascript@incline.systems?subject=We%20need%20some%20JavaScript%20help&body=Hello%20Incline%2C%0A%0AMy%20company%20is%20%5Bname%20and%20description%20of%20your%20company%5D.%0A%0AWe%20need%20some%20help%20with%20%5Bissues%20your%20company%20is%20facing%5D.%0A%0AThanks!%0A)
+Get in touch and see if we can help with your JavaScript needs: [javascript@incline.digital](mailto:javascript@incline.digital?subject=We%20need%20some%20JavaScript%20help&body=Hello%20Incline%2C%0A%0AMy%20company%20is%20%5Bname%20and%20description%20of%20your%20company%5D.%0A%0AWe%20need%20some%20help%20with%20%5Bissues%20your%20company%20is%20facing%5D.%0A%0AThanks!%0A)
 
 
 <small><sup>1</sup> Rankings by Elance.com, recorded in 2013, 2014, and 2015.</small>

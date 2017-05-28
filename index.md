@@ -98,4 +98,5 @@ Incline builds beautiful, compelling experiences across web, mobile, and desktop
 
 ## ✉️ Interested in learning more?
 
-Get in touch! [hello@incline.digital](mailto:hello@incline.digital?subject=We're%20interested%20in%20hiring%20Incline&body=Hello%20Incline%2C%0A%0AMy%20company%20is%20%5Bname%20and%20description%20of%20your%20company%5D.%0A%0AWe%20need%20some%20help%20with%20%5Bissues%20your%20company%20is%20facing%5D.%0A%0AThanks!%0A)
+[Get in touch!](/contact/)
+[hello@incline.digital](mailto:hello@incline.digital?subject=We're%20interested%20in%20hiring%20Incline&body=Hello%20Incline%2C%0A%0AMy%20company%20is%20%5Bname%20and%20description%20of%20your%20company%5D.%0A%0AWe%20need%20some%20help%20with%20%5Bissues%20your%20company%20is%20facing%5D.%0A%0AThanks!%0A)

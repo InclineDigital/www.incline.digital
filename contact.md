@@ -41,7 +41,7 @@ Our office is located in the historic Klopfer building in beautiful [Pleasant Hi
 function initMap() {
     var office = {lat: 40.0547145, lng: -84.3443789};
     var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 15,
+      zoom: 19,
       center: office
     });
     var marker = new google.maps.Marker({

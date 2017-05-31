@@ -29,23 +29,19 @@ and we offer [a variety of business and technology services](#capabilities).
 </div>
 </div>
 
+<section markdown="1" class="quotes" markdown="1">
 
-{% include featured-work.html %}
+> <p class="big">Incline doubled our profits in the first year. They were up 5x after the second year!</p>
+> 
+> <cite>-- <a href="http://user-agent.io/">What's My User Agent?</a></cite>
 
+> Incline's work dramatically expanded my customer base and accounted for 24% of revenue over the last 18 months.
+>
+> <cite>-- Nathan James, <a href="http://www.truetileohio.com/">True Tile</a></cite>
 
-<section id="capabilities" class="capabilities" markdown="1">
-
-## ⚛ Capabilities
-
-Beyond our [core depth of expertise in web apps](/javascript/), Incline has a wide breadth of experience and capabilities:
-
-* **Mobile Apps** - Android & iPhone
-* **Web Design and Development** - Websites, Blogs, etc.
-* **AI** - Artificial Intelligence, Machine Learning, Deep Learning
-* **e-Commerce** - Physical and digital goods, subscriptions, SASS
-* **UI/UX** - User Interface and User Experience
-* **IoT** - Internet of Things/Embedded Hardware Prototyping with Particle, Arduino, Raspberry Pi, etc.
-* **DevOps** - Continuous Integration (CI), Continuous Delivery (CD), automated testing
+> <p class="big">Expert in the arts of JavaScript programing.</p>
+> 
+> <cite>-- Kurtis Mullins</cite>
 
 </section>
 
@@ -75,26 +71,26 @@ Incline builds beautiful, compelling experiences across web, mobile, and desktop
 </div>
 </section>
 
+{% include featured-work.html %}
 
-<section markdown="1">
-## 💬 Don't just take our word for it
 
-<div class="quotes" markdown="1">
+<section id="capabilities" class="capabilities" markdown="1">
 
-> <p class="big">Incline doubled our profits in the first year. They were up 5x after the second year!</p>
-> 
-> <cite>-- <a href="http://user-agent.io/">What's My User Agent?</a></cite>
+## ⚛ Capabilities
 
-> Incline's work dramatically expanded my customer base and accounted for 24% of revenue over the last 18 months.
->
-> <cite>-- Nathan James, <a href="http://www.truetileohio.com/">True Tile</a></cite>
+Beyond our [core depth of expertise in web apps](/javascript/), Incline has a wide breadth of experience and capabilities:
 
-> <p class="big">Expert in the arts of JavaScript programing.</p>
-> 
-> <cite>-- Kurtis Mullins</cite>
+* **Mobile Apps** - Android & iPhone
+* **Web Design and Development** - Websites, Blogs, etc.
+* **AI** - Artificial Intelligence, Machine Learning, Deep Learning
+* **e-Commerce** - Physical and digital goods, subscriptions, SASS
+* **UI/UX** - User Interface and User Experience
+* **IoT** - Internet of Things/Embedded Hardware Prototyping with Particle, Arduino, Raspberry Pi, etc.
+* **DevOps** - Continuous Integration (CI), Continuous Delivery (CD), automated testing
 
-</div>
 </section>
+
+
 
 ## ✉️ Interested in learning more?
 

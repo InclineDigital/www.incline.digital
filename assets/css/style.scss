@@ -29,6 +29,10 @@ $body-color: $darkNight;
 $inverse-bg: $darkNight;
 $inverse-color: $peachfuzz;
 
+// navbar
+$navbar-inverse-color: white;
+$navbar-inverse-hover-color: white;
+
 // jumbotron
 $jumbotron-padding: 3rem;
 $jumbotron-bg: $blush;
@@ -55,15 +59,46 @@ header {
   background-repeat: no-repeat;
 }
 
-.navbar-brand:hover,
-.navbar-brand:focus,
-.nav-link:hover,
-.nav-link:focus,
-.nav-item.active a
-{
-  // todo: come up with something better here, consider differentiating between active and hover/focus
-  text-decoration: underline;
-  color: inherit;
+@media(min-width:  map-get($grid-breakpoints, lg)) {
+
+  .navbar-brand,
+  .nav-link {
+    position: relative;
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 12px;
+      left: 30px;
+      right: 30px;
+      border-bottom: 0px solid white;
+      opacity: 0;
+      transition: all 0.3s;
+    }
+  }
+
+  .navbar-brand:hover,
+  .navbar-brand:focus,
+  .nav-link:hover,
+  .nav-link:focus,
+  .active .nav-link {
+    &:before {
+      border-bottom-width: 3px;
+      opacity: 1;
+      bottom: 2px;
+      left: 6px;
+      right: 6px;
+    }
+  }
+
+  .navbar-brand:hover,
+  .navbar-brand:focus {
+    &:before {
+      bottom: 2px;
+      left: -2px;
+      right: -2px;
+    }
+  }
 }
 
 .jumbotron {

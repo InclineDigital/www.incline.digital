@@ -8,8 +8,3 @@ sass:
   sass_dir: bower_components/bootstrap/scss
   style: compressed
 exclude: ['assets/source-images']
-nav:
-# - url: /javascript/
-#   name: JavaScript Experts
-# - url: /clients/
-#   name: Clients

@@ -12,7 +12,7 @@ class: contact
 
 # Contact Incline
 
-Our office is located in the historic Klopfer building in beautiful [Pleasant Hill, Ohio](http://www.pleasanthillohio.com/).
+Our office is located in the historic [Klopfer building](http://www.klopferbuilding.com/) in beautiful [Pleasant Hill, Ohio](http://www.pleasanthillohio.com/).
 
 <!-- h-card: http://microformats.org/wiki/h-card -->
 <!-- vcard: https://search.google.com/structured-data/testing-tool -->

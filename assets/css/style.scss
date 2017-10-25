@@ -120,6 +120,14 @@ ol, ul, dl {
   padding-left: 2rem;
 }
 
+main>.alert:first-child {
+  margin: 48px 0;
+}
+
+.alert p:last-child {
+  margin-bottom: 0;
+}
+
 .js-icons-home img { max-width: 25%; }
 
 .quotes {

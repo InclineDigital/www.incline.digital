@@ -33,7 +33,7 @@ We've been involved in the Node community since v0.2,
 ![React](/assets/images/react.svg)
 
 Our current standard stack is ES6 (ES2017) React/Redux on the client and server, using Node.js with Next.js to power the backend.
-WebSockets provide realtime updates, and we're currently investigating WASM for increased performance.
+WebSockets provide realtime updates, and we're currently investigating <abbr title="WebAssembly">WASM</abbr> for increased performance.
 
 That said, we're happy to work with whatever you have in place already, and rarely feel the need for massive re-writes or migrations.
 

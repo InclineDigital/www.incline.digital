@@ -37,7 +37,7 @@ and we offer [a variety of business and technology services](#capabilities).
 
 > <p class="big">Incline doubled our profits in the first year. They were up 5x after the second year!</p>
 > 
-> <cite>-- <a href="http://user-agent.io/">What's My User Agent?</a></cite>
+> <cite>-- What's My User Agent?</cite>
 
 > Incline's work dramatically expanded my customer base and accounted for 24% of revenue over the last 18 months.
 >

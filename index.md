@@ -8,7 +8,7 @@ subheadline: Web Apps, Automation, Optimization
 
 <div class="alert alert-warning" role="alert" markdown="1">
   **Incline is not currently accepting new clients.**
-  We can recommend both [Sparkbox](https://seesparkbox.com/) and [Gaslight](https://teamgaslight.com/) without reservation.
+  We can recommend [Jetpack](https://madebyjetpack.com/), [Sparkbox](https://seesparkbox.com/), and [Gaslight](https://teamgaslight.com/) without reservation.
 </div>
 
 <div class="row services">

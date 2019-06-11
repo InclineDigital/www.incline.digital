@@ -25,6 +25,8 @@ Incline Digital is based in beautiful <a href="https://www.troyohio.gov/">Troy, 
 </div>
 <div class="col-md-8">
 
-<img src="https://www.troyohio.gov/ImageRepository/Path?filePath=%2fdocuments%5cIntranet%5c68%2fTroy-Courthouse+Sky.jpg" alt="Troy, Ohio" style="max-width: 100%">
+![Waco Biplane flying over Troy Strawberry Festival](/assets/images/waco-plane.jpg)
+
+<p class="small text-right text-muted"><a class="text-muted" href="https://www.wacoairmuseum.org/">Waco</a> biplane photo by <a class="text-muted" href="https://www.flickr.com/photos/53497385@N07/7330256682/">wrightbrosfan</a></p>
 
 </div>

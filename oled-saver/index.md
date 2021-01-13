@@ -4,9 +4,12 @@ description: OLED Saver is a minimal set-it-and-forget-it watchface that prevent
 headline: OLED Saver Watchface
 subheadline: Set it and forget it
 permalink: oled-saver/
+class: oled-saver
 ---
 
-<img src="time-active.png"/> <img src="time-active.png" style="border-radius: 50%;">
+<img src="time-active.png" class="square-320" />
+<img src="notification-active.png" class="round-400" />
+<img src="notification-ambient.png" class="round-400" />
 
 OLED Saver is a minimal watchface for WearOS (formerly Android Wear) that can be used as a default choice for always-on OLED displays. 
 It prevents burn-in by moving the time and notification dot around the screen to a new random location once per minute.

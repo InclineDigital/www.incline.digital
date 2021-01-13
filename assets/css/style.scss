@@ -204,6 +204,18 @@ main>.alert:first-child {
 
 }
 
+.oled-saver {
+ .square-320 {
+ 	height: 160px;
+ 	width: 160px;
+ }
+ .round-400 {
+ 	height: 200px;
+ 	width: 200px;
+ 	border-radius: 50%;
+ }
+}
+
 
 footer {
   padding: 3rem 0;

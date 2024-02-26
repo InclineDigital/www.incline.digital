@@ -3,7 +3,7 @@
 title: "◢ Incline: Web and App Development, Process Automation and Optimization"
 # default description from _config.yml
 headline: Incline drives growth.
-subheadline: Web Apps, Automation, Optimization
+subheadline: Web & Mobile Apps, Automation, Optimization
 ---
 
 <div class="alert alert-warning" role="alert" style="display:none" markdown="1">
@@ -84,12 +84,12 @@ Incline builds beautiful, compelling experiences across web, mobile, and desktop
 
 Beyond our [core depth of expertise in web apps](/javascript/), Incline has a wide breadth of experience and capabilities:
 
-* **Mobile Apps** - Android & iPhone
+* **Mobile Apps** - Android and iPhone, native and cross-platform
 * **Web Design and Development** - Websites, Blogs, etc.
 * **AI** - Artificial Intelligence, Machine Learning, Deep Learning
 * **e-Commerce** - Physical and digital goods, subscriptions, SASS
 * **UI/UX** - User Interface and User Experience
-* **IoT** - Internet of Things/Embedded Hardware Prototyping with Particle, Arduino, Raspberry Pi, etc.
+* **IoT** - Internet of Things/Embedded Hardware Prototyping
 * **DevOps** - Continuous Integration (CI), Continuous Delivery (CD), automated testing
 
 </section>
